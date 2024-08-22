@@ -655,7 +655,7 @@ st.markdown('''The PhonePe Pulse Data Visualization project involves cloning dat
             Various charts were created for users to select and visualize the data.
             The project includes creating a live geo map, analyzing the data, and visualizing based on the user-selected options''')
 st.subheader(':red[Skills Take Away :]')
-st.markdown(''' Github Cloning, Python, Pandas, MySQL,PyMySQL, Plotly , and Streamlit ''')
+st.markdown(''' Github Cloning, Python, Pandas, MySQL,PyMySQL, Plotly and Streamlit ''')
 
 with st.sidebar:
     select = option_menu("Menu", ["Home", "Data Exploration", "Top Charts"])
